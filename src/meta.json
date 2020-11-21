@@ -1,0 +1,10 @@
+{
+  "$schema": "../meta.schema.json",
+  "name": "codecov-wide-count.user.js",
+  "namespace": "https://github.com/LumaKernel/codecov-wide-count.user.js",
+  "description": "codecov wide count label",
+  "version": "1.0.0",
+  "match": [
+    "https://codecov.io/*"
+  ]
+}

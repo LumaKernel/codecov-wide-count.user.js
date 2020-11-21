@@ -1,0 +1,7 @@
+{
+  "generator-userscript": {
+    "promptValues": {
+      "namespace": "https://github.com/LumaKernel/codecov-wide-count.user.js"
+    }
+  }
+}
